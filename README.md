@@ -1,6 +1,7 @@
-# Sample Hardhat Project
+# JPStable - A stablecoin project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project is a stablecoin project that is based on the Japanese Yen. Build on Japan Open Chain (JOC).
+ The project is based on the [Hardhat](https://hardhat.org) development environment.
 
 Try running some of the following tasks:
 
